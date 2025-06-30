@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 60e541c (New)
 Pizza
 Sinigang
 Chocolate
