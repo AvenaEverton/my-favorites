@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza
 Sinigang
 Chocolate
+=======
+Inception
+Your Name
+Avengers: Endgame
+>>>>>>> movies
